@@ -44,6 +44,10 @@
       {
         name: "Kitkat",
         quantity: "8"
+      },
+      {
+        name: "Biscuit",
+        quantity: "30"
       }
     ];
     var boughtItems = [];
